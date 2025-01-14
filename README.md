@@ -1,1 +1,2 @@
 # GBTgamejam
+int a;
